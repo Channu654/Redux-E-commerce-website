@@ -1,0 +1,29 @@
+.details {
+  border: 1px solid black;
+  margin-left: 550px;
+  width: 250px;
+  height: 300px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.btn {
+  height: 40px;
+  cursor: pointer;
+  width: 150px;
+  margin-right: 60px;
+  margin-left: 50px;
+  margin-top: -60px;
+  border: 1px solid black;
+  color: brown;
+}
+.btn-line {
+  text-decoration: line-through;
+}
+.price-btn {
+  display: flex;
+  justify-content: space-evenly;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  height: 100px;
+}
+.addtocart {
+  margin: auto;
+}
